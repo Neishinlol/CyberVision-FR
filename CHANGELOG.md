@@ -4,6 +4,26 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+## [1.1.2] – Mise à jour des loads order
+
+### ⚙️  Organisation des Loads order / conflits
+- Load order pour des traduction française et résolution de loead order pour les 12 profiles.
+- Avant de mettre à jour, pensez à sauvegarder votre UserSettings.json afin d’éviter de refaire tous vos binds.
+- Chemin : CyberVision → Profiles → Profil choisi → UserSettings.json
+- Pas de problème pour vos sauvegardes.
+- C'est la dernière maj pour un moment pour moi tout est en place. 
+- En attente de vos retours.
+
+---
+
+### 🔄 Maj de mods et nouveaux mods 
+
+**Maj**
+- Tout les Profiles load order
+- Hotscene Full mod  
+
+---
+
 ## [1.1.1] – Refonte Visuelle
 
 ### ⚙️ Rework de l'ENV et Reshade
