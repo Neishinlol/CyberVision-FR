@@ -4,6 +4,15 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+## [1.1.1] – Refonte Visuelle
+
+### ⚙️ Rework de l'ENV et Reshade
+- Les valeurs de l'exposition avaient des problèmes en path tracing pour une raison que j'ignore, j'ai retravaillé CyberVisionENV.
+-  Visuels beaucoup plus beaux et moins de yoyo sur les valeurs d'exposition.
+- Avant de mettre à jour, pensez à sauvegarder votre UserSettings.json afin d’éviter de refaire tous vos binds.
+-  Chemin : CyberVision → Profiles → Profil choisi → UserSettings.json
+- Pas de problème pour vos sauvegardes.
+
 ---
 
 ## [1.1.0] – Mise à jour majeure d’optimisation
