@@ -4,6 +4,99 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+## [1.2.0] – Mise à jour Gameplay & Optimisation
+
+### Optimisations générales
+- Réduction du nombre de **mods dépendants de CET et obsolètes** afin d’améliorer la stabilité globale.
+  - Résultat : meilleures performances, notamment dans les zones très chargées.
+- Ajout de **nouveaux mods**, mises à jour de plusieurs mods existants et divers ajustements :
+  - Nouvelle méthode d’utilisation du **Path Tracing sur GPU AMD**
+  - Nouveaux mods orientés gameplay
+  - Nouveaux séparateurs MO2 et profils nettoyés
+- Ajustements visuels :
+  - Tweaks de la ReShade
+  - Améliorations de l’ENV CyberVision
+- **Correctifs de crash lors de la création de personnage** :
+  - Suppression de plusieurs mods instables provoquant des bugs ou des crashs du character creator.
+
+### Polyglot V & Cosmopolitan Night City
+- Les PNJ principaux parlent désormais leur **langue native**, avec quelques exceptions.
+- Les PNJ aléatoires peuvent utiliser **plusieurs langues**.
+- Les PNJ coréens, japonais, chinois et français gérés par CNC parlent leur langue, et V leur répond dans la même.
+- Les PNJ espagnols aléatoires ainsi que Padre et Mama Welles sont également pris en charge.
+
+### Important
+- Avant la mise à jour, **sauvegardez votre `UserSettings.json`** pour éviter de refaire tous vos binds.  
+  - Chemin : `CyberVision → Profiles → Profil sélectionné → UserSettings.json`
+- ⚠️ Mise à jour **probablement non compatible avec les anciennes sauvegardes**.  
+  - Une **nouvelle partie est fortement recommandée**.
+
+---
+
+### Mises à jour & nouveaux mods
+
+#### Ajouts
+- Séparateur : Path Tracing AMD
+- Optimisation Path Tracing AMD RDNA
+- Polyglot V Custom
+- Cosmopolitan Night City Custom
+- Watch Your Back
+- They Will Remember
+- They Will Remember (FR)
+- Glen Apartment – Ascenseur Corpo
+- The Glen – Netrunner Den
+
+#### Mis à jour
+- ReShade
+- ENV CyberVision
+- Deceptious Bug Fixes
+- Yusei’s Virtual Atelier
+- Night City Flooded
+- Les 12 profils MO2 (réglages et load order)
+
+---
+
+### Supprimés (performances & nettoyage)
+- Séparateur : Stable / À tester
+- Polyglot V Enhanced
+- Cosmopolitan Night City Enhanced
+- Sandevistan CCXL
+- Beanie’s CCXL Clinic – Cyberware
+- SEDTH Eyes
+- CCXL Neuro Tattoos
+- R Tattoo Studio CCXL
+- Kiwi Preset (tatouages lumineux & yeux CCXL)
+- Afterlife Tattoo – CCXL
+- Tattoo commémoratif Jackie Welles pour V – CCXL
+- Faster Cyber Arms and Katanas
+- Japantown North Penthouse – Appartement joueur
+- Post-Romance Delivery System (Judy)
+- Post-Romance Delivery System (Panam)
+- Post-Romance Reward (Judy) [FR]
+- Post-Romance Delivery System (Panam) [FR]
+- Cyberarms Patch
+- DiscordRPC 2
+- Rework Militech Canto Mk.6
+- Appartement corporate The Glen (ArchiveXL)
+- Outdoor V – Canyon Camp
+- spawn0 – Equip Multi Slot
+- spawn0 – New Weapons Store
+- spawn0 – New Weapons 2.0
+- spawn0 – New Items Compatibility Patch
+- spawn0 – Gear Store
+- Stealth Finishers (ZKV Takedowns)
+
+---
+
+### Tweaks & Presets
+- Ajustement de certaines caméras de véhicules.
+- Correction des réglages Ultra Plus (**SHARC désactivé**).
+- Ajustements de la ReShade (réduction des tons jaunes et magenta).
+- Nettoyage des dossiers de load order.
+- Mise à jour de tous les profils selon les derniers changements FOMOD.
+
+---
+
 ## [1.1.2] – Mise à jour des loads order
 
 ### ⚙️  Organisation des Loads order / conflits
