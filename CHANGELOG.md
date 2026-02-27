@@ -4,6 +4,90 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+
+## [1.2.1] – Mise à jour & Optimisations
+
+### Optimisations Générales
+
+- Ajout d’un **système de presets d’optimisation CPU**, permettant de choisir celui adapté à votre configuration :
+  - CPU fix **POTATO** – 4–8 threads CPU, 4–6 Go VRAM, SSD
+  - CPU fix **Lite** – 6–12 threads CPU, 8 Go VRAM, SSD
+  - CPU fix **Standard** – 8–16 threads CPU, 12–16 Go VRAM, SSD NVMe
+  - CPU fix **EXTREME** – 16+ threads CPU, 16 Go+ VRAM, NVMe rapide
+
+- Ajout de **nouveaux mods**, mises à jour de mods existants et nombreux ajustements :
+  - Remplacement de certains **mods CET par des versions Redscript**
+  - Ajout de **nouveaux mods**
+  - Ajout de **nouveaux séparateurs MO2** et nettoyage des profils
+  - Nouvelles **options d’optimisation**
+  - Ajout de **réglages caméra**
+- Améliorations globales des performances et de la stabilité sur tous les profils.
+
+### Important
+
+- Avant la mise à jour, **sauvegardez votre `UserSettings.json`** pour éviter de perdre vos raccourcis clavier.  
+  - Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+- ⚠️ Le jeu **peut crasher une seule fois au premier chargement** après la mise à jour à cause des nouveaux changements.  
+  - Si cela arrive, cela **ne se produira qu’une seule fois**.
+
+- ✅ Mise à jour **compatible avec les sauvegardes**.  
+  - Vous pouvez continuer votre partie actuelle.
+
+---
+
+### Mises à Jour & Nouveaux Mods
+
+#### Ajoutés
+- Orange Double Calibre
+- MeleeAnimation Randomizer
+- Engine Oil Extreme
+- Engine Oil Standard
+- Engine Oil Lite
+- Engine Oil Potato
+
+#### Mis à Jour
+- Milky Glass Mod
+- Faction Evolved
+- Claim Vehicle – Modded Cars
+- Reinforcement Gang VS Gang Addon
+- Sabbath Virtual Atelier (Légendaire)
+- Axellysse Virtual Atelier
+- Unaware Execution
+- Shift
+- Hyst Atelier Store – Virtual Atelier
+- Les 12 profils MO2 (réglages et ordre de chargement)
+
+---
+
+### Remplacements
+- CPU Optimization Fix → remplacé par **4 profils CPU issus du mod Engine Oil**
+- Underwear Removal (CET) → **Underwear Removal (Redscript)**
+
+---
+
+### Supprimés (Performances & Stabilité)
+- CET NPC Body Tweaks
+- Underwear Removal (CET)
+- Immersive Third-Person Vehicle Camera – TPP Cam Toolkit
+
+---
+
+### Tweaks & Presets
+
+- Ajustements caméra Shift :
+  - Toutes les voitures refaites + presets personnalisés
+  - Toutes les motos refaites + presets personnalisés
+  - Armes de poing, couteaux, katanas, fusils à pompe et fusils d’assaut refaits
+
+- WeatherAutoSchedule – probabilités ajustées :
+  - Météo plus variée, moins de temps ensoleillé constant
+
+- Ordre de chargement mis à jour pour tous les profils
+
+
+---
+
 ## [1.2.0] – Mise à jour Gameplay & Optimisation
 
 ### Optimisations générales
