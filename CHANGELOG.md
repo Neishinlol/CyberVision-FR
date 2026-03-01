@@ -5,6 +5,99 @@ Pour des résumés rapides, consultez Discord et Nexus.
 Ce fichier fait office de source principale et complète.
 
 
+## [1.3.0 RC] – RC BETA TEST Mise à jour
+
+### Changements généraux
+
+Nouveaux mods ajoutés — des tests sont nécessaires pour vérifier la stabilité :
+- Nouveau système NCPD / MaxTac
+- Nouveau système de comportement de l’IA de combat
+- Nouveau système de détection de l’IA
+- Nouveau système d’IA du trafic
+- Retour de StealthRunner Expanded
+- Plusieurs nouveaux mods de lieux
+- Nouveaux mods de voitures / motos
+- Nouveaux mods de HUD
+
+Mises à jour de mods existants, ainsi que divers ajustements et correctifs :
+- Ajustements de la caméra en première personne avec Shift
+- Ajustements de la caméra voiture en première personne avec Shift
+- Ajustements de la caméra moto en première personne avec Shift
+- Ajustements de certaines probabilités météo
+- Mises à jour de plusieurs mods
+
+### Important
+
+Avant de mettre à jour, assurez-vous de sauvegarder votre `UserSettings.json` afin d’éviter de devoir tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+**UTILISATEURS DE LA PAGE PRINCIPALE WABBAJACK**  
+- Si vous souhaitez tester la **1.3.0 RC**, récupérez le **WabbaFile** sur la page Nexus de CyberVision.
+
+⚠️ Le jeu peut planter lors du premier rechargement de votre sauvegarde en raison des nouveaux changements.  
+- Si cela arrive, le crash ne devrait se produire qu’une seule fois.
+
+✅ Plutôt compatible avec les sauvegardes.  
+- Vous pouvez continuer votre partie actuelle.
+
+---
+
+### Mises à jour des mods, nouveaux mods & remplacements
+
+#### Ajoutés
+- Orange Double Calibre
+- Prop Collision Fix
+- Arch Dirt Bike
+- Night City Badges – Refonte du NCPD
+- Traffic Unjammed
+- ImmersiveHUD
+- Ford GT
+- Ducati 916
+- Corpse Loot Fix
+- Riot Club Unlocked and Remastered
+- The Empathy Club Unlocked
+- Law Enforcement Overhaul
+- Law Enforcement Overhaul Reset (Compatibilité des spawns – MaxTac rééquilibré – Fleet Expansion)
+- Law Enforcement Overhaul Reset – Fleet Expansion
+- Faction Evolved Law Enforcement Overhaul Reset Addon
+- Ajustement des spawns NCPD et MaxTac (comportement policier par district)
+- Lotus Esprit Turbo
+- Totentanz Club Enhanced
+- AI Trigger Overhaul – PNJ plus perceptifs
+- Smoother Dodge And Dash
+- Stealthrunner – Extension du gameplay furtif
+- Enemy Aggro Improvements
+- Combat (IA uniquement)
+- Combat Revolution – RÉÉQUILIBRAGE
+
+#### Mis à jour
+- KiasuBurger Cyberware Core
+- Lotus Esprit Turbo
+- Hotscenes
+- VEEGEE SHOP 3
+- Lizzie’s Braindances
+- Axellysse Virtual Atelier
+- Weapon Sound Remake
+
+#### Remplacements
+- Improved Dodge and Dash → Smoother Dodge And Dash
+
+---
+
+### Ajustements & presets
+
+- Ajustements de la caméra Shift :
+  - Certaines voitures refaites
+  - Certaines motos refaites
+  - Idle en première personne refait
+
+- Ordre de chargement de tous les profils mis à jour
+
+---
+
+Cheers 😏
+
+
 ## [1.2.1] – Mise à jour & Optimisations
 
 ### Optimisations Générales
