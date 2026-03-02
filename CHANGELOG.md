@@ -5,6 +5,57 @@ Pour des résumés rapides, consultez Discord et Nexus.
 Ce fichier fait office de source principale et complète.
 
 
+## [1.3.0 RC2] – RC BETA TEST Mise à jour
+
+### Nouveaux mods / Hotfix IA
+
+### Important
+
+Avant de mettre à jour, pensez à sauvegarder votre `UserSettings.json` afin d’éviter de tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+**UTILISATEURS DE LA PAGE PRINCIPALE WABBAJACK**  
+- Si vous souhaitez tester la **1.3.0 RC**, récupérez le **WabbaFile** sur la page Nexus de CyberVision.
+
+⚠️ Le jeu peut planter lors du premier rechargement de votre sauvegarde à cause des nouveaux changements.  
+- Si cela arrive, le crash ne devrait se produire qu’une seule fois.
+
+✅ Plutôt compatible avec les sauvegardes.  
+- Vous pouvez continuer votre partie actuelle.
+
+---
+
+### Mises à jour de mods, nouveaux mods & remplacements
+
+#### Ajoutés
+- More Vigilant Enemies
+- More Cautious And Chaotic Enemies
+- Immersive Stealth Weapon
+- Dead Body Alert
+
+#### Mis à jour
+- Factions Evolved
+- Factions Evolved Gang VS Gang
+- Factions Evolved Claim Vehicle
+- Factions Evolved Law Enforcement
+- Night City Traffic Overhaul
+- Lotus Esprit Turbo
+- Modular Military Mask - ArchiveXL
+- Tac Threads Atelier
+- Corpse Loot Fix
+
+#### Supprimés (problèmes de stabilité et de performances)
+- Combat (IA uniquement)
+- Combat Revolution REBALANCE
+- Unaware Executions
+- Silent Silencers and Throwing Knives
+- Silent Silencers and Throwing Knives FR
+
+---
+
+Cheers 😏
+
+
 ## [1.3.0 RC] – RC BETA TEST Mise à jour
 
 ### Changements généraux
