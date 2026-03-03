@@ -5,6 +5,141 @@ Pour des résumés rapides, consultez Discord et Nexus.
 Ce fichier fait office de source principale et complète.
 
 
+
+## [1.3.0] – Mise à jour
+
+> ⚠️ RÉFÉREZ-VOUS AU SALON #Infos-Français DU DISCORD POUR LES NOUVEAUX CHANGEMENTS CONCERNANT LES PARAMÈTRES & PROFILS ⚠️
+
+### Mise à jour / Optimisation / Correctifs / Nouveaux mods & ajustements
+
+### Changements généraux
+
+Retour d’Ultra Plus :
+
+- Désactivé par défaut pour ceux qui le souhaitent
+- Déjà configuré pour tous les profils
+- Désactivez tout CPU Fix si vous utilisez Ultra Plus
+
+Profils refaits :
+
+Utilisez Raster & RT sur les profils Raster & RT et utilisez Path Tracing sur les profils Path Tracing.
+
+- 01 - RASTER & RT Standard - RTX 3070 RX 6700 XT
+- 02 - RASTER & RT Very High - RTX 4070 RX 9070 XT
+- 03 - RASTER & RT Ultra - RTX 4090 RX 7900 XTX
+- 04 - PATH TRACING Standard - RTX 4070 TI RX 9070 XT
+- 05 - PATH TRACING Very High - RTX 5070 TI
+- 06 - PATH TRACING Ultra - RTX 4090
+- 07 - FR - RASTER & RT Standard - RTX 3070 RX 6700 XT
+- 08 - FR - RASTER & RT Very High - RTX 4070 RX 9070 XT
+- 09 - FR - RASTER & RT Ultra - RTX 4090 RX 7900 XTX
+- 10 - FR - PATH TRACING Standard - RTX 4070 TI RX 9070 XT
+- 11 - FR - PATH TRACING Very High - RTX 5070 TI
+- 12 - FR - PATH TRACING Ultra - RTX 4090
+
+Nouveaux mods, mises à jour de mods existants, ainsi que divers ajustements et correctifs :
+
+- De nombreux nouveaux mods
+- Suppression des mods en conflit
+- Nouveaux séparateurs MO2 et profils nettoyés
+- Nouvelles options d’optimisation
+- Paramètres de caméra
+
+### Important
+
+⚠️ Avant de mettre à jour, assurez-vous de sauvegarder votre `UserSettings.json` afin d’éviter de devoir tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+⚠️ Le jeu peut planter lors du premier rechargement de votre sauvegarde en raison des nouveaux changements.  
+- Si cela arrive, le crash ne devrait se produire qu’une seule fois.
+
+✅ Plutôt compatible avec les sauvegardes.  
+- Il serait préférable de commencer une nouvelle partie, mais je comprends… c’est douloureux.
+
+---
+
+### Mises à jour de mods, nouveaux mods & remplacements
+
+#### Nouveaux
+
+- Ultra Plus
+- Toyota Supra Mk3
+- Draw Distance Reimagined
+- Orange Double Calibre
+- Prop Collision Fix
+- Arch Dirt Bike
+- Night City Badges – Refonte du NCPD
+- Traffic Unjammed
+- ImmersiveHUD
+- Ford GT
+- Ducati 916
+- Corpse Loot Fix
+- Riot Club Unlocked and Remastered
+- The Empathy Club Unlocked
+- Law Enforcement Overhaul
+- Law Enforcement Overhaul Reset (compatibilité des spawns – MaxTac rééquilibré – Fleet Expansion)
+- Law Enforcement Overhaul Reset – Fleet Expansion
+- Faction Evolved Law Enforcement Overhaul Reset Addon
+- Ajustement des spawns NCPD et MaxTac (comportement policier par district)
+- Lotus Esprit Turbo
+- Totentanz Club Enhanced
+- AI Trigger Overhaul – PNJ plus perceptifs
+- Smoother Dodge And Dash
+- Stealthrunner – Extension du gameplay furtif
+- Enemy Aggro Improvements
+- More Vigilant Enemies
+- More Cautious And Chaotic Enemies
+- Dead Body Alert
+- Faction Evolved Claim Vehicle
+- Faction Evolved Gang VS Gang
+- Faction Evolved Law Enforcement Overhaul
+
+#### Mis à jour
+
+- Lotus Esprit Turbo
+- Modular Military Mask - ArchiveXL
+- Tac Threads Atelier
+- Night City Traffic Overhaul
+- Factions Evolved
+- KiasuBurger Cyberware Core
+- Lotus Esprit Turbo
+- Hotscenes
+- VEEGEE SHOP 3
+- Lizzie’s Braindances
+- Axellysse Virtual Atelier
+- Weapon Sound Remake
+- Night City Aroused Encounters Assets FOMOD
+- Dusty Virtual Atelier
+- Go on a Date (Panam) - Activité romance secondaire
+- Silent Silencers and Throwing Knives
+
+#### Supprimés
+
+- Unaware Executions
+- Improved Vehicle Lights Draw Distance
+- Framework - Unique Evelyn Body Shape - Rig
+
+---
+
+### Ajustements & Presets
+
+- Ajustements de caméra Shift :
+  - Toutes les voitures refaites + certaines personnalisées
+  - Toutes les motos refaites + certaines personnalisées
+  - Pistolets / couteaux / katanas / fusils à pompe / fusils d’assaut refaits
+
+- Ordre de chargement de tous les profils mis à jour
+
+---
+
+> ⚠️ RÉFÉREZ-VOUS AU SALON #Infos-Français POUR LES NOUVEAUX CHANGEMENTS CONCERNANT LES PARAMÈTRES & PROFILS ⚠️
+
+Cheers.
+
+https://www.nexusmods.com/cyberpunk2077/mods/27691
+
+
+
 ## [1.3.0 RC2] – RC BETA TEST Mise à jour
 
 ### Nouveaux mods / Hotfix IA
