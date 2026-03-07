@@ -6,6 +6,114 @@ Ce fichier fait office de source principale et complète.
 
 
 
+## 🇫🇷 CyberVision – Mise à jour 1.3.1
+
+### Graphismes / Optimisation / Correctifs / Nouveaux mods & tweaks
+
+### Changements généraux
+
+CyberVision ENV retravaillé :
+
+- Extérieurs plus sombres la nuit tout en gardant une bonne visibilité.
+- Adaptation des yeux moins agressive.
+- Effet flashbang réduit lors de la conduite en vue première personne.
+- Tons de couleurs plus chauds et plus saturés.
+- Ombres plus lumineuses.
+- Nuages ajustés.
+- Intérieurs plus clairs.
+- Ajustements généraux de l'exposition.
+- En gros énormément d’améliorations — une semaine complète de tweaking.
+
+Night City Alive remplacé et ajusté :
+
+- Night City Alive REDmod remplacé par la version non-REDmod.
+- Night City Alive Low Density pour les profils Ultra.
+- Night City Alive Standard Density pour les profils Standard et Very High.
+
+Nouveaux mods, mises à jour de mods existants et divers correctifs :
+
+- Ajout de nouveaux mods
+- Mods mis à jour
+- Suppression de mods
+
+### Important
+
+⚠️Avant de mettre à jour, assurez-vous de sauvegarder votre `UserSettings.json` afin d’éviter de devoir tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+⚠️ Le jeu peut crash la première fois que vous rechargez votre sauvegarde après la mise à jour.  
+- Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+✅ Compatible avec les sauvegardes.  
+- Vous pouvez continuer votre partie actuelle.
+
+---
+
+### Mises à jour de mods, nouveaux mods et remplacements
+
+#### Ajoutés
+
+- Night City Alive Low Density
+- Night City Alive Standard Density
+- Lotus Opel Omega
+- DogTown Stadium Unlocked and Remastered
+- Tanishi T420 Yolo
+- Vessnelle's Hair - Leon - CCXL
+- Bike Overhaul - TweakXL
+- Yaiba Kusanagi Overhaul
+- Afterlife Unlocked and Remastered
+
+#### Mis à jour
+
+- Lizzie's Braindances
+- Deceptious Bug Fixes
+- NC Fashion Virtual Atelier
+- Hyst Atelier Store - Virtual Atelier
+- Sabbath7991 Weapon and Attachment Shops - Virtual Atelier
+- The RVC00N Dumpster 3 - PinkyDude's Virtual Atelier
+- Watch Your Back
+- Melee Animation Randomizer
+- APEX - Sonora Canyon and Safehouse
+- Arch Dirt Bike
+
+#### Supprimés
+
+- Night City Alive (REDmod)
+- 0-Engine
+
+---
+
+### Tweaks & Presets
+
+Ajustements de caméra Shift :
+
+- Voitures refaites + certaines personnalisées
+- Motos refaites + certaines personnalisées
+
+CyberVision ENV :
+
+- Recréé et ajusté
+
+ENV Tuner Simple :
+
+- Shadow boost réduit de 1.8 → 1.4
+
+ReShade et RenoDX :
+
+- Plus de saturation
+- Moins d’exposition
+- Ombres plus lumineuses
+
+Ordre de chargement de tous les profils mis à jour
+
+⚠️ Consultez le canal **#Infos** pour les nouveaux changements concernant **les paramètres et les profils**.
+
+---
+
+Cheers 😏
+
+
+
 ## [1.3.0] – Mise à jour
 
 > ⚠️ RÉFÉREZ-VOUS AU SALON #Infos-Français DU DISCORD POUR LES NOUVEAUX CHANGEMENTS CONCERNANT LES PARAMÈTRES & PROFILS ⚠️
