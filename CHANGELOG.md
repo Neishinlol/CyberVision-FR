@@ -4,6 +4,88 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+---
+
+## [1.3.2] – Mise à jour
+
+### Graphismes / Optimisation / Correctifs / Nouveaux mods & tweaks
+
+### Changements généraux
+
+
+Menu Principal custom.
+
+
+CyberVision ENV retravaillé (encore) :
+
+- L’éclairage nocturne n’est plus bleu.
+- L’exposition nocturne a été ajustée pour varier selon la météo.
+- Lune retravaillée.
+- Brouillard nocturne sous la pluie corrigé.
+- Ombres plus lumineuses.
+
+Ultra Plus 8.1 remplacé par 8.0 :
+
+- Version changée pour des raisons de performance.
+- Paramètres Ultra Plus refaits pour chaque profil.
+
+Nouveaux mods, mises à jour de mods existants et divers tweaks et correctifs :
+
+- Ajout de nouveaux mods
+- Mods mis à jour
+
+### Important
+
+⚠️ Avant de mettre à jour, assurez-vous de sauvegarder votre `UserSettings.json` afin d’éviter de devoir tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Selected profile → UserSettings.json`
+
+⚠️ Le jeu peut crash la première fois que vous rechargez votre sauvegarde à cause des nouveaux changements.  
+- Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+✅ Compatible avec les sauvegardes.  
+- Vous pouvez continuer votre sauvegarde actuelle.
+
+---
+
+### Mises à jour de mods, nouveaux mods et remplacements
+
+#### Ajoutés
+
+- Leon's Outfit RE Requiem (Archive XL - FemV et MaleV)
+- Leon's Jacket RE Requiem (Archive XL - FemV et MaleV)
+- Impact Kill Looting Fix
+- Licks Club
+- Arch Byakko
+- LemurLord's Vehicle Customizer Updated
+
+#### Mis à jour
+
+- Incubus - Unique V Male Fitness Rig
+- Draw Distance ReImagined
+- Military Accessories - Balaclava Pack - ArchiveXL
+- Zenitex Core Dependency
+- M50 Military Gas Mask - ArchiveXL
+- CyberVision ENV
+- CyberVision Reshade
+- Cyberpunk Ultra Plus
+
+---
+
+### Tweaks & Presets
+
+Ajustements de la caméra Shift :
+
+- Voitures refaites + certaines personnalisées
+- Motos refaites + certaines personnalisées
+
+CyberVision ENV :
+
+- Ajusté à nouveau.
+
+Ordre de chargement de tous les profils mis à jour.
+
+⚠️ CONSULTEZ LE SALON **#Infos** POUR LES NOUVEAUX CHANGEMENTS CONCERNANT **LES PARAMÈTRES & PROFILS** ⚠️
+
 
 
 ## 🇫🇷 CyberVision – Mise à jour 1.3.1
