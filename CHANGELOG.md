@@ -4,6 +4,131 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+
+## [1.4.0 RC1] - Mise à jour
+
+### Ajustements ENV / Correctifs / Nouveaux Mods
+
+### Changements généraux
+
+CyberVision ENV ajusté (encore) :
+
+- Les nuits sont maintenant parfaitement équilibrées.
+- Corrections de l’exposition et de l’éclairage entre 6–8 et 7–8.
+- La météo Pollution a été remplacée par une pluie plus sombre.
+- La pluie toxique a été remplacée par une pluie verdâtre avec brouillard.
+- Même pendant les nuits très sombres, améliorez vos yeux avec la vision nocturne ou utilisez une lampe torche.
+
+Correctifs :
+
+- Bug d’apparence aléatoire des NPC
+- Gig Full Disclosure
+- Double saut parkour
+- Double saut + saut chargé
+- Messages d’avertissement non affichés
+- Flickering du brouillard / de la fumée (devrait disparaître après une transition météo)
+
+### Important
+
+⚠️ Avant de mettre à jour, assurez-vous de sauvegarder votre `UserSettings.json` afin d’éviter de devoir tout reconfigurer.  
+- Chemin : `CyberVision → Profiles → Profil sélectionné → UserSettings.json`
+
+⚠️ Le jeu peut crash la première fois que vous rechargez votre sauvegarde à cause des nouveaux changements.  
+- Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+⚠️ UTILISATEURS DE LA PAGE PRINCIPALE WABBAJACK  
+- Si vous souhaitez essayer la **1.4.0 RC1**, récupérez le **WabbaFile** sur la page Nexus du mod CyberVision.
+
+✅ Compatible avec les sauvegardes.  
+- Vous pouvez continuer à utiliser votre sauvegarde actuelle.
+
+---
+
+### Mises à jour de mods, nouveaux mods & remplacements
+
+#### Ajoutés
+
+- Crowd E3 2018 Restored
+- Vault 404 (Fallout Shelter)
+- Underground Casino (roulette fonctionnelle)
+- Tucker Albachs Apartment Enhanced
+- The Moth Bar Lair
+- Roller Coaster Expanded
+- Regina's NCPD Headquarters
+- Red Queens Club Enhanced
+- Pew Pew Plaza Enhanced
+- Petrel Street Apartment Enhanced
+- Megabuilding 8 Expanded (avec appartements)
+- Murkman Cave (BATMAN)
+- Konpeki Plaza Expanded (avec appartement)
+- Konpeki Plaza Unlocked 2.31
+- Japantown Shooting Range
+- Japantown Greenery
+- Grand Imperial Mall Theater
+- Cinema in Grand Imperial Mall
+- Gloria's House (avec garage)
+- Gaston Slaytons Apartment Enhanced
+- Empathy Bar Enhanced
+- Drive-In Theater (écran fonctionnel)
+- SPC TV Screen (Silver Pixel Cloud Drive-In Theater)
+- SPC Open roof double ladder fix
+- SPC Open (Silver Pixel Cloud Drive-In Theater)
+- Dogtown Airship (avec appartement et fête NPC en dessous)
+- Dark Matter Club (avec appartement)
+- Dandelion Cocktail Bar Enhanced
+- Crunch Plaza Expanded
+- Biotechnica Hotel Enhanced (avec appartement)
+- Arasaka Estate Mansion
+- Arasaka Estate Unlocked - No More Guards
+- 7th Hell Bar Enhanced
+- Atlantis Club Expanded
+- The Atlantis - Restored
+- Gone in 2077 Seconds
+- Arasaka Estate Unlocked
+- Butchers Of Night City
+- Plymouth Barracuda Formula S
+
+#### Mis à jour
+
+- Licks Club
+- VOIDWEAR Virtual Atelier
+- Quickhack Hotkeys
+- New Lifepath Intro - Fresh Start
+- Night City Interactions - Core
+- KMKC's - Virtual Atelier
+- VEEGEE SHOP 3
+- Night City Enhanced and Expanded - NPCs
+- Dusty Virtual Atelier
+- Clear Windows
+- CyberVision ENV
+
+#### Supprimés
+
+- Crystal Coat Ignores Damage
+- NCI Addon - Watson
+- Japanese Apartment
+- Post-Romance Reward (Judy) (FR)
+- Corpo Rooftop Bar
+
+---
+
+### Tweaks & Presets
+
+- Ajustements de caméra (Shift) :
+  - Voitures refaites + certaines personnalisées
+  - Motos refaites + certaines personnalisées
+
+- CyberVision ENV
+  - Ajusté à nouveau
+
+- ImmersiveHUD
+  - Suppression des messages d’avertissement via WolvenKit
+
+- Ordre de chargement mis à jour pour tous les profils
+
+⚠️ Consultez le **salon #infos** pour les nouveaux changements concernant les paramètres et profils.
+
+
 ---
 
 ## [1.3.2] – Mise à jour
