@@ -4,6 +4,177 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+### 
+
+## [1.4.0] - Mise à jour
+
+### Ajustements ENV / Correctifs / Nouveaux Mods
+
+### Changements généraux
+
+CyberVision ENV ajusté (encore) :
+
+- Les nuits sont maintenant parfaitement équilibrées.
+- Corrections d’exposition et d’éclairage entre 6–8 et 7–8.
+- La météo Pollution a été remplacée par une pluie plus sombre.
+- La pluie toxique a été remplacée par une pluie verdâtre avec brouillard.
+- Certaines météos sont très sombres la nuit en extérieur, utilisez la vision nocturne ou une lampe torche.
+
+Correctifs :
+
+- Bug d’apparence aléatoire des NPC
+- Gig Full Disclosure
+- Double saut parkour
+- Double saut + saut chargé
+- Messages d’avertissement non affichés
+- Flickering du brouillard / fumée
+- Correctif Atlantis
+
+Profils modifiés :
+
+- Textures 4K retirées des profils Ultra
+- Mods déplacés de Very High vers Ultra
+- Mods déplacés de Standard vers Very High
+- Clavier QWERTY par défaut pour les utilisateurs anglais
+- Profils et ordre de chargement entièrement refaits
+
+### Important
+
+⚠️ Avant de mettre à jour, sauvegardez votre `UserSettings.json`.  
+- Chemin : `CyberVision → Profiles → Profil sélectionné → UserSettings.json`
+
+⚠️ Le jeu peut crash lors du premier rechargement de sauvegarde.  
+- Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+✅ Compatible avec les sauvegardes.  
+- Vous pouvez continuer votre partie.
+
+---
+
+### Mises à jour de mods, nouveaux mods & remplacements
+
+#### Ajoutés
+
+- Crowd E3 2018 Restored
+- Vault 404 (Fallout Shelter)
+- Underground Casino (roulette fonctionnelle)
+- Tucker Albachs Apartment Enhanced
+- The Moth Bar Lair
+- Roller Coaster Expanded
+- Regina's NCPD Headquarters
+- Red Queens Club Enhanced
+- Pew Pew Plaza Enhanced
+- Petrel Street Apartment Enhanced
+- Megabuilding 8 Expanded (avec appartements)
+- Murkman Cave (BATMAN)
+- Konpeki Plaza Expanded (avec appartement)
+- Konpeki Plaza Unlocked 2.31
+- Japantown Shooting Range
+- Japantown Greenery
+- Grand Imperial Mall Theater
+- Cinema in Grand Imperial Mall
+- Gloria's House (avec garage)
+- Gaston Slaytons Apartment Enhanced
+- Empathy Bar Enhanced
+- Drive-In Theater
+- SPC TV Screen
+- SPC Open roof double ladder fix
+- SPC Open
+- Dogtown Airship
+- Dark Matter Club
+- Dandelion Cocktail Bar Enhanced
+- Crunch Plaza Expanded
+- Biotechnica Hotel Enhanced
+- Arasaka Estate Mansion
+- Arasaka Estate Unlocked - No More Guards
+- 7th Hell Bar Enhanced
+- Gone in 2077 Seconds
+- Arasaka Estate Unlocked
+- Butchers Of Night City
+- Plymouth Barracuda Formula S
+- NCI Addon - Watson
+- Edgrennur Emperor
+- Weather Switcher FR
+- HUD Painter FR
+- Deceptious Quest Core FR
+- Lizzie Reskin Black V1
+- Misc NC Fixes
+- Better Flashlight
+
+#### Mis à jour
+
+- Licks Club
+- VOIDWEAR Virtual Atelier
+- Quickhack Hotkeys
+- New Lifepath Intro - Fresh Start
+- Night City Interactions - Core
+- KMKC's - Virtual Atelier
+- VEEGEE SHOP 3
+- Night City Enhanced and Expanded - NPCs
+- Dusty Virtual Atelier
+- Clear Windows
+- CyberVision ENV
+- The Empathy Club Unlocked
+- Gone in 2077 Seconds
+- Hotscenes
+- Lizzie's Braindances
+
+#### Supprimés
+
+- Crystal Coat Ignores Damage
+- NCI Addon - Watson
+- Japanese Apartment
+- Post-Romance Reward (Judy) (FR)
+- Corpo Rooftop Bar
+- Ultra Textures fix
+- Environment Textures Overhaul 4K
+- Cyberpunk 2077 HD Reworked Project 4K
+- Atlantis Club Expanded
+- The Atlantis - Restored
+- Simple Flashlight
+- Simple Flashlight - Traduction Française
+
+---
+
+### Mods déplacés selon les profils
+
+#### Very High → Ultra
+
+- Improved Environment LODS
+- Improved Vegetation LODS
+- Improved Distant Shadows
+
+#### Standard → Very High
+
+- Night City Enhanced and Expanded - NPCs
+- Night City Traffic Overhaul
+- Factions Evolved
+- Factions Evolved Claim Vehicle
+- Factions Evolved Law Enforcement Overhaul
+- Factions Evolved Gang VS Gang
+
+---
+
+### Tweaks & Presets
+
+Ajustements caméra (Shift) :
+
+- Tous les presets voitures refaits
+- Tous les presets motos refaits
+
+CyberVision ENV :
+
+- Ajusté à nouveau
+
+ImmersiveHUD :
+
+- Messages d’avertissement supprimés via WolvenKit
+
+Tous les profils : ordre de chargement mis à jour.
+
+⚠️ Consultez le **salon #infos** pour les nouveaux changements concernant les paramètres et profils.
+
+### 
 
 ## [1.4.0 RC1] - Mise à jour
 
