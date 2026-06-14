@@ -4,6 +4,109 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+
+## [2.2.0] - Mise à jour
+
+### Changements généraux
+
+- Grosse maj d'optimisation & crash fix.
+
+Mis à jours & réparés :
+
+- Fix des crashs aléatoires,
+- Suppression de cheveux customs,
+- Fix les crashs de chargement de sauvegardes,
+- Suppression et tweak de mods pour les crashs sur chargement de sauvegardes.
+- Cachette de Phantom liberty réparée.
+
+### Important
+
+⚠️ Avant de mettre à jour, assurez-vous de sauvegarder votre UserSettings.json afin d’éviter de devoir tout reconfigurer.
+→ Chemin : CyberVision → Profiles → Profil sélectionné → UserSettings.json
+
+⚠️ Le jeu peut crash la première fois que vous rechargez votre sauvegarde à cause des nouveaux changements.
+→ Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+⚠️ Depuis le changement de corps de V, certaines tenues font crash en prévisualisations, merci de les noter et de les poster sur Discord.
+
+⚠️ Beaucoup de tenues ajoutés sont des mods nécéssaires pour faire fonctionner les changements de personnages, ils sont désactivés dans le Virtual atelier pour l'instant,
+Si vous voulez les utiliser ça sera dans la console avec les codes.
+
+⚠️ Si vous êtes chauves après la maj, allez à un miroir ou chez un charcudoc pour changez vos cheveux.
+
+⚠️ Vous pouvez continuer votre sauvegarde si vous mettez à jour depuis la 2.1.  
+- Nouvelle partie obligatoire si vous venez d'une version antérieur à la 2.1.
+---
+
+### Mods, ajouts, mises à jour & changements
+
+#### Nouveaux
+
+- Watsons NeonRow
+- Satellite Tower Apartment (in trailer park)
+- HUD Fixes - fix disappearing HUD element and quest dialogs
+- Zenitex Caiman Ballistic Helmet - ArchiveXL
+- Zenitex Assault Helmet - ArchiveXL
+- Nissan Skyline R34 V-Spec II - ArchiveXL
+
+#### Mis à jours
+
+- Stealthrunner - Stealth Gameplay Expansion
+- Improved Distant Shadows (Volumetric Fog Leaking Fixed)
+- I Really Want To Stay At Your House - Judy
+- I Really Want To Stay At Your House - Panam
+- SPLAT Physics Realistic Ragdoll Overhaul
+- Sanchez Virtual Boutique
+- Zenitex Core Dependency
+- General Shadows Fixes
+- Manavortex Atelier Store
+- The Nullifier
+- Non-Canon Romances Enhanced
+- Tac Threads Atelier
+- Romance Hangouts Enhanced
+- NCPD Vehicles 2.0
+- Modular Military Mask - ArchiveXL
+- KMKC's - Virtual Atelier
+- Virtual Atelier
+- Lizzie's Braindances
+- Lizzie's Braindances Language Pack
+- Native Settings UI Side Menu Add-on
+- Limited HUD
+- Lizzie's Bar Overhaul
+- Hotscenes - play Cyberpunk Joytoy sex scenes with your favorite characters
+- LeeHan2 - pose pack 2
+- LeeHan2 - pose pack 3
+- Zenitex Military Combat Gloves - ArchiveXL
+- Yusei's Virtual Atelier
+- Sabbath7991 Weapon and Attachment Shops - Virtual Atelier
+- Player Body Cyberware Injector
+- Vehicular Annoyances Patch
+- Dynamic Downforce
+- They Will Remember
+- HeRa Masc Atelier Store
+- Impoverished Santo Domingo Apartment
+- LeeHan2 - pose pack 5
+- LeeHan2 - pose pack 6
+- LeeHan2 - pose pack 7
+- NC Fashion Virtual Atelier
+- Mayo - Tight Jeans XL - Overhaul Soon
+
+#### Supprimés
+
+- Tons of custom hair.
+- BETA-- CYBERPSYCHO ENCOUNTERS
+- SPLAT Physics Realistic Ragdoll Overhaul
+- Reference Path Tracing
+
+### Tweaks & Presets
+
+- Ajustements caméra
+- Load order mis à jour pour tous les profils
+
+⚠️ Consultez le **#infos channel** pour les nouveaux réglages et profils.
+
+-------------------------------------------------------------------------------------------------------
+
 ## [2.1.0] - Mise à jour
 
 ### Changements généraux
