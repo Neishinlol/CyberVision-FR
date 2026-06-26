@@ -4,6 +4,105 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+## [2.3.0b] - Mise à jour
+
+### Changements
+
+- Maj / modifications / Nouveaux mods 
+
+Maj & modifications :
+
+- 0 - Engine test pour plus de performances.
+- Maj de mods.
+
+Nouveaux mods de combat : 
+
+- Combat Evolved ajouté,
+- Enemy Rarity Fixes,
+- Le jeux sera plus dur, j'attend vos retours.
+
+Swap : 
+
+- Realistic Traffic Density pour les profiles Ultra's ( encore ). 
+- Nova Population supprimé, ça cause des freezes.
+
+
+### Important
+
+⚠️  UTILISATEURS VENANT DE LA PAGE PRINCIPALE DE WABBAJACK : 
+→ Si vous voulez tester les BETA BUILDS, ils se trouve sur la page nexus de la liste CyberVision.
+
+⚠️ Avant de mettre à jour, assurez-vous de sauvegarder votre UserSettings.json afin d’éviter de devoir tout reconfigurer.
+→ Chemin : CyberVision → Profiles → Profil sélectionné → UserSettings.json
+
+⚠️ Le jeu peut crash la première fois que vous rechargez votre sauvegarde à cause des nouveaux changements.
+→ Si cela arrive, cela ne devrait se produire qu’une seule fois.
+
+⚠️ Depuis le changement de corps de V, certaines tenues font crash en prévisualisations, merci de les noter et de les poster sur Discord.
+
+⚠️ Si vous êtes chauves après la maj, allez à un miroir ou chez un charcudoc pour changez vos cheveux.
+
+⚠️ Vous pouvez continuer votre sauvegarde si vous mettez à jour depuis la 2.1.  
+- Nouvelle partie obligatoire si vous venez d'une version antérieur à la 2.1.
+
+---
+
+### Mods, ajouts, mises à jour & changements
+
+#### Nouveaux
+
+- Alex Romanced ( pas encore traduit )
+- Aston Martin DBS Superleggera
+- DigitalVixen Core
+- 0 - Engine Immersive Meditations - Unmarked Locations
+- 0 - Engine Go On A Date (Panam)
+- 0-Engine
+- Redscript Configuration Framework
+- All Guns Are Cool
+- Enemy Rarity Fixes
+- Combat Evolved
+- Gunsensical plus Sabbath equals love
+
+#### Mis à jours
+
+- Better Flashlight
+- Hyst Atelier 
+- Lizzie BrainDance 
+- Lizzie BrainDance Language pack 
+- Sabbath7991 Weapon and Attachment Shops - Virtual Atelier
+- Modular Military Accessories Pack 1 - ArchiveXL
+- Tac Threads Atelier
+- Virtual Atelier
+- Hotscenes - play Cyberpunk Joytoy sex scenes with your favorite characters
+- Dusty Virtual Atelier
+- Better Eye Shadow Mask
+- They Will Remember
+- KMKC's - Virtual Atelier
+- Non-Canon Romances Enhanced
+- I Really Want To Stay At Your House - Panam
+- Rita Wheeler Romanced
+- Zenitex Core Dependency
+- Reinforcements System Delayed
+- Meredith Stout Romance Addon
+- Reinforcements System
+
+#### Supprimés
+
+- Enemies Dodging Fix
+- Reinforcements System - Infinite combat loop fix
+- Reinforcements System (FR)
+- Nova population ( Freeze the game in very dense Area's )
+
+### Tweaks & Presets
+
+- Preset caméra en voiture et moto ajout d'effets,
+- Preset caméra pistolet ajusté,
+- Tout les ordres de chargements refaits, 
+
+⚠️ Regardez le canal Infos français pour toutes informations.
+
+___________________________________________________________________________
+
 ## [2.2.1] - Mise à jour
 
 ### Changements généraux
