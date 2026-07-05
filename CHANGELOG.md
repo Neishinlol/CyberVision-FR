@@ -4,6 +4,362 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+
+
+## [3.0.0] - Mise à jour @everyone
+
+
+### Changements généraux
+
+
+### Changements de configuration des profils :
+
+#### Les configurations ont été modifiées,
+
+- 8 profils, 4 en anglais / 4 en français,
+- 01 - RASTER & RT Standard - RTX 3070 RX 6700 XT,
+- 02 - RASTER & RT Very High - RTX 4070 RX 9070 XT,
+- 03 - PATH TRACING Standard - RTX 4070 TI RX 9070 XT,
+- 04 - PATH TRACING Very High - RTX 5070 TI,
+- 05 - FR - RASTER & RT Standard - RTX 3070 RX 6700 XT,
+- 06 - FR - RASTER & RT Very High - RTX 4070 RX 9070 XT,
+- 07 - FR - PATH TRACING Standard - RTX 4070 TI RX 9070 XT,
+- 08 - FR - PATH TRACING Very High - RTX 5070 TI,
+- Nouveau séparateur Ultimate Ultra, à choisir manuellement à partir des profils Very High selon votre matériel,
+- (Nova Population est TRÈS TRÈS dense, plutôt destiné aux captures d'écran / vidéos qu'au pur Gameplay).
+
+
+### Stabilité & Correctifs :
+
+#### Correction de tous les crashs possibles,
+
+- Aucune tenue en prévisualisation ne fait crasher, tout a été vérifié, tout a été nettoyé,
+- Mise à jour de MO2 de la version 2.5.2b2 à 2.5.2b12,
+- Correction des crashs au rechargement à environ 95%,
+- Plus de crashs dans le monde ouvert dus à Faction Evolved, désactivé pour le moment, j'y travaille chaque jour,
+- (La mise à jour de FE sera disponible sur Discord jusqu'à ce qu'il soit corrigé à 100%, désactivé pour l'instant dans le séparateur " WIP Disabled because of Crashs ").
+
+
+### Changements de Gameplay :
+
+#### Le système de combat a été retravaillé.
+
+- Nouvelles capacités pour les ennemis,
+- Nouveau système de bouclier pour les ennemis,
+- Nouvelle configuration de la dilatation temporelle,
+- Nouveau système de conduite / vol de voitures,
+- Affichage des barres de PV & Bouclier des ennemis activé,
+- Nouvelles armes et mécaniques,
+- Pour que tout fonctionne parfaitement, le jeu doit être joué en Difficulté Standard.
+
+
+### Refonte visuelle :
+
+#### CyberVision ENV / CyberVision Reshade retravaillés,
+
+- Nouveau soleil et intensité du soleil retravaillée, plus de grand cercle clignotant,
+- Contraste et couleurs augmentés d'environ 20%,
+- Noirs et ombres plus profonds sans pour autant avoir une nuit d'encre noire,
+- Retour du preset CyberVision Reshade Cinematic,
+- Pluie corrigée par temps de pollution,
+- Adaptation de l'exposition dans le monde et en voiture ajustée,
+- Bug visuel avec le path tracing corrigé,
+- Reflets invisibles de V & des objets corrigés,
+
+
+### Ajustements et modifications :
+
+#### Ajustement de plusieurs éléments,
+
+- Remplacement de Immersive V dialogue par V for Vibrant,
+- Caméra à la première personne (FPP) en conduite / avec les armes retravaillée,
+- Désactivation de Faction Evolved jusqu'à ce qu'il soit corrigé.
+
+
+### Important
+
+⚠️ LISEZ LE SALON #INFOS SUR DISCORD
+Refait à neuf avec beaucoup de nouvelles choses à lire.
+
+⚠️ DÉSACTIVEZ REDMOD :
+Pour cette bêta et les prochaines mises à jour, vous devrez lancer le lanceur Vanilla de Cyberpunk et décocher "Activer les mods".
+
+⚠️ Réglez la difficulté sur Standard
+Le jeu est désormais équilibré autour de cette difficulté.
+
+⚠️ NOUVELLE PARTIE FORTEMENT RECOMMANDÉE
+C'est en réalité obligatoire.
+
+--- 
+
+### Mises à jour de mods, Nouveaux mods & Remplacements
+
+#### Ajoutés :
+
+- 0-Engine
+- V For Vibrant
+- V Voice Framework
+- Cyber Enemies
+- Cyber Enemies - FR Translation
+- Compact Abilities
+- Immersive Shooting AI
+- Perk Addition Framework
+- ME Armor System
+- ME Armor System - FR Translation
+- DocWorks Quadra Type-66 'RedLine'
+- Vehicle Mirrors - LQ
+- Ultra Texture Remaster Repack
+- Nova City - Population
+- NSGDD - Not So Good Draw Distance Mod
+- Disable Knockdown Animation (CET)
+- Meredith Stout Romance Addon
+- 8ug8ear Romance Next Chapter
+- Extra Iconics - FR Translation
+- Trace Position Overhaul - FR Translation
+- Dash Fix - FR Translation
+- All Guns Are Cool - FR Translation
+- Dog Eat Dog More Dialogue
+- Dog Eat Dog More Dialogue - FR Translation
+- Iconic Weapon Loadouts - Morgan Blackhand - Sympathy for the Devil
+- Iconic Weapon Loadouts - Morgan Blackhand - FR Translation
+- Iconic Weapon Loadouts - David Martinez - The Kids Aren't Alright
+- Iconic Weapon Loadouts - David Martinez - FR Translation
+- Anti-Theft Measures
+- NightlyNow Core
+- Gunsensical - More headshot damage
+- Manavortex Material Library
+- True Grip - Slope Traction and Handbrake Handling Fix
+- Baby Driver 2.0
+- Nulled Angle Correction
+- Dynamic Gravity Modifier
+- Wind Begone (foliage shadow bug workaround)
+- Véhicule Interior Windows - HQ
+- Reds Logging Headers
+- Renault 5 Turbo
+- Villefort Alvarado V4FH ECTO-77 and 4-Seater variants
+- Aston Martin DBS Superleggera
+- Villefort Alvarado V4FL 600 Royale
+- Villefort Columbus V-340E-series 'Runner' Vans
+- I Love Adverts
+- Lore Friendly Neon Signs
+- Time Dilation Overhaul
+- Law Enforcement Overhaul
+- Law Enforcement Overhaul Improved
+- Mayo Virtual Atelier
+- Zenitex G24 Viper Visor - ArchiveXL
+- Casual Style Full Outfit - Archive XL
+
+#### Mis à jour :
+
+- CyberVision Reshade
+- CyberVisionENV
+- Virtual Atelier
+- ArchiveXL
+- Codeware
+- DigitalVixen Core 
+- Deceptious Quest Core
+- Redscript Configuration Framework
+- Factions Evolved Claim Vehicle
+- Modular Military Accessories Pack 1 - ArchiveXL
+- Player Body Cyberware Injector
+- VendorsXL
+- Misc NC Fixes
+- Disable Fake Lights with Path Tracing
+- Ray Traced Lighting Fixes
+- Improved Vegetation LODs
+- Sabbath7991 Weapon and Attachment Shops - Virtual Atelier
+- Lizzie's Bar Overhaul
+- NC Fashion Virtual Atelier
+- Lost and Found Atelier Store
+- Dusty Virtual Atelier
+- Immersive Night City Fixes
+- Immersive Night City Fixes - CORE
+- Lizzie's Braindances
+- Top Secret V12 Supra
+- Ducati Supersport
+- Ducati Monster 1200
+- Toyota GT86
+- Cyber Drift
+- Nova Optics (Vehicle Exposure Fix and Visuals Customization)
+- The RVC00N Dumpster 3 - PinkyDude's Virtual Atelier
+- Nissan Skyline R34 V-Spec II - ArchiveXL
+- infrab's Alluring Poses
+- Ducati 916
+- Audi RSQ
+- Honda CRX Mugen
+- Chevrolet Camaro SS JL4
+- Nissan Silvia S15
+- Aprilia RS660
+- Honda S2000
+- Mitsubishi Eclipse GSX (1999)
+- Nissan Skyline 2000GT-R
+- Nissan Skyline R33
+- Lotus Esprit Turbo
+- Toyota Supra
+- Lamborghini Murcielago SV
+- Nissan Skyline R32
+- Audi R8 V10+
+- Mitsubishi Lancer Evo 9
+- Mazda MX-5 Miata
+- Nissan 350Z
+- KRNLNIK Nissan Silvia S15
+- 2017 Nissan GTR R35
+- Manavortex Atelier Store
+- Chevrolet Chevelle Super Sport 454
+- Night City Traffic Overhaul 2.10
+- Japantown North Verticality Expanded
+- Input Loader
+- Sanchez Virtual Boutique
+- Yusei's Virtual Atelier
+- Nola Dreamer's hair Ruth - Physics enabled - CCXL - AXL
+- Desert Eagle
+- Nola Dreamer Virtual Boutique
+- Alex Romanced
+- Tony's Shoe Store (Virtual Atelier)
+- Vault 404 ( Fallout Shelter )
+- Tac Threads Atelier
+- Satellite Tower Apartment (in trailer park)
+
+#### Supprimés:
+
+- REDmod Separator & mods 
+- Immersive V Dialogue Expanded
+- Immersive V Dialogue Expanded (FR)
+- Weapon Sound Remake
+- DOOM Music on Berserk Activation
+- Double Jump Sound Remake
+- Dash Sound Remake
+- Blade Runner ringtone and SMS sound replacer (updated to game version 2.31)
+- GTA San Andreas Mission Passed Sound Replacer Mod (REDMOD)
+- Map Exit Nuclear Explosion Fix
+- Morph Texture Removal - Cleaner and better skin details
+- Faster Vehicle Knockback Animation
+- Utilities 2077
+- Alternative Skin Material
+- Improved Vegetation LODs
+- Unchainned Textures Overhaul
+- City of Dreams Menu Backgrounds
+- Japantown North Verticality Expanded
+- Realistic Bullet Hole Textures
+- Consumable Animations
+- Lizzie's Bar Overhaul
+- Ped Damage Overhaul 2077
+- Enemy Rarity Fixes
+- Combat Evolved
+- Ray Traced Lighting Fixes
+- Prop Collision Fix
+- Bike Overhaul - TweakXL
+- Any Scope
+- Immersive Food Vendors
+- Immersive Food Vendors - Dogtown
+- Toyota Trueno GT APEX(AE86) Initial D Edition
+- 2019 Mercedes G63 AMG
+- Mercedes-Benz 300 SL
+- Bmw S1000RR
+- Bmw M1000RR
+- Ducati Monster 1200
+- Air Leap - Enhanced Leaping
+- John Wick TTI STI 2011 Combat Master (New Standalone Iconic Weapon)
+- Better Feet for Masc V - Male Body Mod
+- The Zenitex Military Store
+- Bunny Girl Outfit - Archive XL Judy
+- Caldos Ripper - Nipple Piercings (M-F) (Archive XL)
+- Feather Earrings ArchiveXL
+- Finesse Lingerie - ArchiveXL
+- infrab's Crop Tank Natural
+- Iris Pajamas (Archive XL)
+- Lace Puff Top - ArchiveXL (fem V)
+- Lean Cross Earing for Female V Only
+- LostInACave X Veegee Jeans - Archive XL Judy
+- Maid Outfit - Archive XL Judy
+- Meluminary X Veegee Sweetheart Boudoir Pt5 - Archive XL Judy
+- Merrin Hairstyle - CCXL
+- NW-StableBlack Boots - ArchiveXL
+- OVER THE KNEE SOCKS - AXL ACCESSORIES
+- QIPAO dress - Archive XL Judy
+- Real Pubic Hair
+- Strapped Couture (Archive XL)
+- Summer Shirts
+- V's sexy piercing - Part 3 - (Archive XL)
+- WashxVeegee lace shirt- Archive XL
+- InfiniteWave - car sound framework
+- Porsche Singer 911 Armed
+- 2019 Toyota Corolla Hatchback Formula Drift
+- Kawasaki Ninja H2R
+- Quadra Type-66 Phantom
+- 2021 Mercedes AMG SL63
+- Ferrari F40 LB-WORKS
+- Ferrari F40 ZEPHYR Custom
+- Volkswagen Super Beetle 1971
+- Devil Sixteen
+- Koenigsegg Regera (Addon)
+- Nilu 27
+- Ducati Supersport
+- Toyota GT86
+- Mazda RX7 FD
+- Genesis X Gran Berlinetta
+- BMW M4 CS 2018
+- Porsche 996 GT3 Mk.1 2000
+- Ferrari 458 Spider
+- Ferrari 458 Spider WBK
+- Lambo GTV
+- Mazda RX7 WBK
+- Mazda RX7 Initial D Stage5
+- Mazda RX7 Fortune (Fast and Furious Edition)
+- Porsche 911 Targa 4 GTS 2025
+- Dapper Shirt
+- Bob Hair
+- Nola Dreamer's Lacelette lingerie Rossella - archive XL
+- Nola Dreamer's Stockings Collection - Archive XL Judy
+- Angel Outfit Reworked
+- BatGirl Outfit
+- Nola Dreamer's Bracelets collection - Archive XL
+- Nola Dreamer's Moon accessories - Archive XL - Fem V
+- Nola Dreamer's AirPods Max - Archive XL
+- Nola Dreamer's heart choker and garters - archive XL
+- Nola Dreamer's Barbed accessories - Archive XL - Both V
+- Nola Dreamer's Spiked Collar - Archive XL - Both V
+- Nola Dreamer's simple drops (blood and water) - archive XL
+- Nola Dreamer's hair Ruth - Physics enabled - CCXL - AXL
+- Nola Dreamer's hair salon
+- Nola Dreamer Male Virtual Boutique
+- Nola Dreamer x Aquelyras - goth outfit - Archive XL
+- Nola Déramer x Aquelyras - Summer outfit - Archive XL
+- Nola Dreamer and Aquelyras - Stunning outfit - Archive XL - Physics
+- Nola Dreamer's Blazer Dress - Archive XL
+- Nola Dreamer's Bright Mood outfit - Archive XL
+- Nola Dreamer's Brooklyn outfit - archive XL
+- Nola Dreamer's lazy outfit - archive XL
+- Nola Dreamer's Mini Jumpsuit - archive XL
+- Nola Dreamer's Square neckline top - Archive XL
+- Nola Dreamer's beach outfit and fishnet dress archive XL for female V
+- Nola Dreamer's Fishnet tights - ARCHIVE XL - Togglable Feet - Equipment-EX
+- Nola Dreamer's Fishnet stockings and socks - ARCHIVE XL - Togglable Feet - Equipment-EX
+- Nola Dreamer's Sport Leggings - archive XL
+- Nola Dreamer's V Back Leggings - archive XL
+- Boudoir Pt10 - Archive XL
+- Gothic Officer Cap
+- Mani X Veegee Shirt Dress - Archive XL
+- Dave X Veegee Gothic Dress Pt3 - Archive XL
+- Versalife X Veegee YoRHa Kimono Type 2B - Archive XL
+- Versalife X Veegee Sunflowerbean Skirt - Archive XL
+- Alvarix Hair Collection - Atelier
+- Alvarix Hair Collection - Archive-XL
+- ORION Industries - Uniforms (Standalone)
+- ORION Industries - Tactical Gloves (Standalone)
+- ORION Ind. (Virtual Atelier Store)
+- Phoebe Killer Biker Outfit
+- Phoebe Casual High Heels
+- Phoebe Bitchin Boots
+- Phoebe Air Ultra Bikini
+- Phoebe - Leggings for Tduality - ArchiveXL
+- Phoebe Clothing line Store
+
+
+____________________________________________________________________________________________________
+
+
+
 ## [2.3.0b] - Mise à jour
 
 ### Changements
