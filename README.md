@@ -58,9 +58,10 @@ Les grosses modlists nécessitent beaucoup de mémoire. Quelle que soit votre RA
 
 ## 🛠 Installation
 1. Supprimez toutes les données Cyberpunk  
-2. Lancez une fois pour activer REDmod  
-3. Installez CyberVision via Wabbajack  
-4. Sélectionnez le profil MO2 (12 profils : 6 anglais, 6 français)  
+2. Faire une installation du jeu propre
+3. Lancez le launcher pour désactiver les mods ( Redmod )
+4. Installez CyberVision via Wabbajack  
+4. Sélectionnez le profil MO2 (8 profils : 4 anglais, 4 français)  
 
 Pour **les instructions de setup, la configuration détaillée et le support**, consultez la **section CyberVision du Discord** : [Lien Discord](https://discord.com/invite/WSFgf5S7wS)
 
@@ -69,16 +70,12 @@ Pour **les instructions de setup, la configuration détaillée et le support**, 
 ## 🎮 Profils & Paramètres
 - 01 - RASTER & RT Standard - RTX 3070 RX 6700 XT 
 - 02 - RASTER & RT Very High - RTX 4070 RX 9070 XT
-- 03 - RASTER & RT Ultra - RTX 4090 RX 7900 XTX 
-- 04 - PATH TRACING Standard - RTX 4070 TI RX 9070 XT 
-- 05 - PATH TRACING Very High - RTX 5070 TI
-- 06 - PATH TRACING Ultra - RTX 4090 
-- 07 - FR - RASTER & RT Standard - RTX 3070 RX 6700 XT 
-- 08 - FR - RASTER & RT Very High - RTX 4070 RX 9070 XT
-- 09 - FR - RASTER & RT Ultra - RTX 4090 RX 7900 XTX
-- 10 - FR - PATH TRACING Standard - RTX 4070 TI RX 9070 XT
-- 11 - FR - PATH TRACING Very High - RTX 5070 TI
-- 12 - FR - PATH TRACING Ultra - RTX 4090 
+- 03 - PATH TRACING Standard - RTX 4070 TI RX 9070 XT 
+- 04 - PATH TRACING Very High - RTX 5070 TI
+- 05 - FR - RASTER & RT Standard - RTX 3070 RX 6700 XT 
+- 06 - FR - RASTER & RT Very High - RTX 4070 RX 9070 XT
+- 07 - FR - PATH TRACING Standard - RTX 4070 TI RX 9070 XT
+- 08 - FR - PATH TRACING Very High - RTX 5070 TI
 
 ---
 
