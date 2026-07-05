@@ -30,7 +30,7 @@ Avant d’installer CyberVision, complétez les étapes suivantes :
 
 ### **Contenu officiel du jeu**
 - Assurez-vous que votre jeu est propre et à jour  
-- Lancez-le une fois pour initialiser REDmod (les utilisateurs Steam doivent télécharger REDmod pour Cyberpunk 2077 avant)
+- Lancez-le une fois pour désactiver REDmod
 
 ### **Steam Overlay**
 - Désactivez le Steam overlay globalement ou uniquement pour Cyberpunk afin d’éviter les crashs :  
