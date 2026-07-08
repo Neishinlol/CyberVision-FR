@@ -5,6 +5,163 @@ Pour des résumés rapides, consultez Discord et Nexus.
 Ce fichier fait office de source principale et complète.
 
 
+## [3.0.1] - Mise à jour @everyone
+
+
+### Changements généraux 
+
+
+### Retour de la distribution des voitures : 
+
+#### Distribution des voitures par profiless, 
+
+- Standard profiles -> Loreful Modded Traffic,
+- Very High profiles -> Factions Evolved Base + addons, 
+- Ultimate Ultra -> Fusions des deux mods.
+
+
+### Correctif et stabilité : 
+
+#### Tout les crashs sont fix ( encore ),
+
+- La touche du CET est F1,
+- Distribution des voitures 100% stable,
+- Les crashs en rechargant quand vous combattez des gangs ou le npcd réparés,
+- Les armes invisibles de Sabbath sont réparées,
+- Les tenues pour V femme des seins qui traverses la tenues sont réparées,
+- Le volume des radios à été ajusté.
+
+
+### Changement du Gameplay : 
+
+#### Modifications du combat.
+
+- Nerf des armes de lancé,
+- Dégat des headshots réduits de 500% à 300%%,
+- Changement du comportement du ncpd et des gangs pour l'aggro.
+
+
+### Important
+
+⚠️ LISEZ LE SALON #INFOS SUR DISCORD
+Refait à neuf avec beaucoup de nouvelles choses à lire.
+
+⚠️ DÉSACTIVEZ REDMOD :
+Pour cette bêta et les prochaines mises à jour, vous devrez lancer le lanceur Vanilla de Cyberpunk et décocher "Activer les mods".
+
+⚠️ Réglez la difficulté sur Standard
+Le jeu est désormais équilibré autour de cette difficulté.
+
+⚠️ NOUVELLE PARTIE FORTEMENT RECOMMANDÉE
+C'est en réalité obligatoire.
+
+--- 
+
+### Mises à jour de mods, Nouveaux mods & Remplacements
+
+#### Ajoutés :
+
+- Loreful Modded Traffic
+- Factions Evolved Base
+- Factions Evolved Gang VS Gang
+- Factions Evolved Law Enforcement Overhaul
+- Factions Evolved Ultra Merged
+- Factions Evolved - Claim Vehicles
+- '67 Chevrolet Impala
+- C-West Kit - Nissan Skyline GT-R R34
+- 2003 Mini Cooper S R53
+- 95' McLaren F1
+- ASAP Rocky's 190E
+- Baronz Chair
+- Border Patrol Vehicle Pack
+- Cortes V6000 NCPD Overlord Sheriff Edition
+- Chevillon Emperor - ArchiveXL
+- Death Race Vehicle Pack
+- Lamborghini Countach K.S Edition
+- Makigai Maimai E130 'Napoleon' Patrol Cars
+- MaxTac Vehicle Pack
+- Mercedes-Benz 190E W201
+- Porsche 911 Cabriolet Colors
+- Porsche 911 Collection
+- Prevention Unit Vehicle Pack
+- Tanishi 6x6 Ratrod
+- Thorton Merrimac Necromancer
+- Trophy Tanishi
+- Vehicle Pack - Corpo
+- Vehicle Pack - Utility
+- Vehicle Pack - Gangs
+- 1911 - Sally and Mustang
+- Suppressor Pack
+- Trigger Mode Control
+- Ghost Grudge from RE9
+- M232 from RE9
+- Alligator Snapper from RE9
+- Requiem Revolver from RE9
+- Colt Python (.357 Magnum)
+- Pistol Pack 3
+- Pistol Pack
+- Pistol Pack 5
+- 0 - Engine Rent a Motel
+
+#### Mis à jour :
+
+- CyberVisionENV
+- KMKC's - Virtual Atelier
+- Meredith Stout Romance Addon
+- Particles Flickering Fix
+- 8ug8ear Romance Next Chapter
+- Honda S2000
+- Nissan 350Z
+- Nissan Skyline R33
+- Toyota Supra
+- Lamborghini Murcielago SV
+- Nissan Skyline R32
+- Mitsubishi Lancer Evo 9
+- Nissan Skyline 2000GT-R
+- Ducati 916
+- Lotus Esprit Turbo
+- Mitsubishi Eclipse GSX (1999)
+- Mazda MX-5 Miata
+- Audi R8 V10+
+- Nissan Silvia S15
+- Aprilia RS660
+- Chevrolet Camaro SS JL4
+- Honda CRX Mugen
+- Ducati Supersport
+- Ducati 916 - ArchiveXL
+- Toyota GT86
+- Top Secret V12 Supra
+- V For Vibrant
+- Gunsensical - More headshot damage
+- Pistol Pack 2
+- Pistol Pack 4
+- Yusei's Virtual Atelier
+- Silent Silencers and Throwing Knives
+- Melee Attacks Fixes And Enhancements
+- Hotscenes - play Cyberpunk Joytoy sex scenes with your favorite characters)
+
+#### Supprimés:
+
+- Better Throwing Knives and Weapons - Redscript
+- Vehicle Interior RT and Mirrors
+- Sabbath7991 Weapon and Attachment Shops - Virtual Atelier
+- Someone Call NCPD
+- Speedometer Fixes
+
+
+--- @everyone
+
+⚠️ Référez-vous au salon #infos pour les paramètres & profils mis à jour.
+
+https://www.nexusmods.com/cyberpunk2077/mods/27691
+
+❤️ Si vous souhaitez soutenir mon travail, payez-moi un café.
+
+https://www.patreon.com/c/Neishin
+
+
+_________________________________________________________________________________________
+
 
 ## [3.0.0] - Mise à jour @everyone
 
