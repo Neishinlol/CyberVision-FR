@@ -5,6 +5,210 @@ Pour des résumés rapides, consultez Discord et Nexus.
 Ce fichier fait office de source principale et complète.
 
 
+
+## [3.1.0] - Mise à jour @everyone
+
+
+### Changements généraux
+
+
+### Distribution des véhicules :
+
+#### Désormais optionnelle dans un séparateur MO2 personnalisé, désactivée par défaut,
+
+- Optionnelle, désactivée par défaut,
+- Choisissez celle correspondant à votre profil,
+- Distribution de véhicules Standard,
+- Distribution de véhicules Très Élevée,
+- Distribution de véhicules Ultimate Ultra,
+- Certains utilisateurs rencontrent des crashs, d'autres non, à vous de tester.
+
+
+### Stabilité & Correctifs :
+
+#### Tous les crashs possibles ont une nouvelle fois été corrigés,
+
+- Temps de lancement du jeu amélioré,
+- Correction de l'interface du mode Photo,
+- Suppression des mods redondants,
+- Suppression de TDO qui provoquait des freezes,
+- Correction du temps de transition de la météo,
+- Correction du bug où les véhicules modifiés passaient à travers la carte,
+- Suppression de Enemy Rarity Fixes Improved qui provoquait des freezes,
+- Suppression de Decals Flickering Fix qui causait d'importants micro-freezes,
+- Suppression des pièces de tuning sur les véhicules de yellingintothevoid, corrige les crashs liés à la distribution des véhicules,
+- Correction de DerniersMessages / Dead Air - An Evelyn Parker Story qui n'avaient plus de son,
+- Retour à une ancienne version de Watsons NeonRow avec un impact moindre sur les performances,
+- Suppression de They Will Remember, qui faisait doublon avec d'autres fonctionnalités et provoquait des crashs au rechargement des sauvegardes de notre modlist.
+- Suppression du séparateur : AMD Path Tracing Fix, suivez désormais le tutoriel réalisé par Golden Dicks dans le salon Discord : AMD Users Utilisateurs.
+
+
+### Changements de gameplay :
+
+#### Ajustements du système de combat.
+
+- Correction des armes de lancer qui étaient trop puissantes,
+- Remplacement de Dark Future par Dark Future Core,
+- Rééquilibrage des valeurs de Cyber Enemies,
+- Remplacement de Gunsensical par Gunsensical Reloaded,
+- Réduction des dégâts des tirs à la tête de 500 % à 150 %,
+- Retour de Fighting Gangs Allowed, désormais corrigé et rééquilibré,
+- Ajustement du système d'armure ME Armor System afin d'être moins punitif contre les ennemis d'élite,
+- Modification du comportement de la police et des gangs concernant l'aggro et les combats.
+- Remplacement de : AI Trigger Overhaul / Enemy Aggro Improvements / More Vigilant Enemies / Silent Silencers / Improve Shooting AI par Much Better AI.
+
+
+### Important
+
+⚠️ Certaines traductions n'ont pas étés faites, certains mods majeurs sont en Anglais,
+- Je travaille sur les traductions au plus vite.
+
+⚠️ LISEZ LE SALON #INFOS-Français SUR DISCORD
+- Entièrement refait avec beaucoup de nouvelles informations à lire.
+
+⚠️ DÉSACTIVEZ REDMOD :
+- Pour cette bêta et les prochaines mises à jour, vous devrez lancer le launcher Vanilla de Cyberpunk et décocher **Enable Mods**.
+
+⚠️ Réglez la difficulté sur Standard
+- Le jeu est désormais équilibré autour de cette difficulté.
+
+⚠️ NOUVELLE PARTIE requise si votre sauvegarde est antérieure à la version 3.0.0,
+- Compatible avec les sauvegardes créées en 3.0.0 ou après.
+
+
+---
+
+
+### Mises à jour, nouveaux mods & remplacements
+
+#### Ajoutés
+
+- Standard - Car Distribution
+- Very High - Car Distribution
+- Ultimate Ultra - Car Distribution
+- Dark Future Core
+- Much Better AI
+- Fighting Gangs Allowed - Reasonable Police ( Rééquilibré )
+- Consumable Animations
+- InplaceSectorsNulled
+- Throttled Activity Log
+- 3D World Map Fixed
+- Adam Finlay Hidden Gem Quest Recovery
+- Bolt Shot FX Reset Fix
+- Bounty class stars fix
+- Brick Columbarium Fix
+- Senkoh LX Bolt Fix
+- Bug Fix - Recon Grenade Bounce Fix
+- Buzzsaw VFX Fix
+- Disable W-S Keys For Select Dialogue Options (Compatible Patch 2.3)
+- Enemies Dodging Fix
+- Epistrophy Delamain Despawn Fix
+- FinishedQuestsSorted-1.01
+- FirstEquipFix
+- Fluff Vendor Fixes
+- Immersion Patch - Holdin' On - Kerrys' mansion scene bug fixes
+- Immersion Patch - Waiting for Dodger Quest Fixes
+- Immersion Patch - Path Of Glory - Afterlife scene bug fixes
+- Item Records Fixes
+- Judy's Cone Lights No More
+- Leaky Interiors Fixed
+- Loot Quantity Text (Compatible 2.31)
+- Malorian Silverhand - Attachment fix
+- Microblend Fix
+- NCPD Fixes
+- Passenger Targeting Fix
+- Quickhack Fixes
+- Quickhack Fixes - Traduction FR
+- Rasetsu screens bug fix
+- Second Heart Fix
+- Smart Gun Lock Speed Fixes
+- Stats Bar UI Fix
+- Contacts Redux - Indicateurs de statut en ligne
+- Crosshair simple redone
+- Compact Weapon Mod Slots - Meilleure interface pour les emplacements d'accessoires supplémentaires
+- HQ Fast Food
+- HQ Food - Fries - Modèles et textures de meilleure qualité
+- Classic Cigarettes (Remplacement HD des textures et des meshes)
+- HQ Fruits
+- HQ Sushi
+- Blood Puddles - EGGHANCED
+- Breach Protocol - Personal Link Animations Patch
+- Gunsensical Reloaded
+- Immersion Patch - Minor Activities Quest Fixes
+- Immersion Patch - Cyberpunk Story Quest Fixes
+- DDS Camo Microblends
+- Leon's Requiem Outfit - Fem Masc V (ArchiveXL)
+- Quadra Turbo K.S Edition - RTX Shadow Fix
+- Quadra V10 Unbound - Enhanced Driving Dynamics
+- Judy Conversations Addon
+- Go on a Date (Judy) - Activité de romance
+
+
+#### Mis à jour
+
+- Night City Traffic Overhaul 2.10
+- V Voice Framework
+- Load Begone
+- Sanchez Virtual Boutique
+- Santiago's Jacket - Fem Masc V (ArchiveXL)
+- Ripper Pants and Belt - Fem Masc V (ArchiveXL)
+- Bomber Jackets - Fem Masc V (ArchiveXL)
+- raem's Atelier Store
+- Tottes Atelier Shop 2
+- KMKC's - Virtual Atelier
+- BrowserExtensionFramework
+- Watsons NeonRow
+- NC Fashion Virtual Atelier
+- Lizzie's Braindances Language Pack
+- FlowerShop - Virtual Atelier Store
+- Yusei's Virtual Atelier
+- Lizzie's Braindances
+- Hyst Atelier Store - Virtual Atelier
+- Car Modification Shop
+- DerniersMessages
+- Dead Air - An Evelyn Parker Story
+- Japantown North Verticality Expanded
+- Meredith Stout Romance Addon
+
+
+#### Supprimés
+
+- Dark Future Complete Edition
+- They Will Remember
+- No More Out-Leveling Vendor Items
+- Advanced Control Regained
+- More Cautious Enemies
+- Fire and Explosions Texture Overhaul
+- Smoke Texture Overhaul
+- Gunsensical
+- Gunsensical - More Headshot Damage
+- AI Trigger Overhaul - More Perceptive NPCs
+- Enemy Aggro Improvements
+- Silent Silencers and Throwing Knives
+- More Vigilant Enemies
+- Immersive Shooting AI
+- Enemy Rarity Fixes Improved
+- Decals Flickering Fix
+- Disappearing Enemy Health Bar Fix
+- Persistent CrystalCoat 2.0
+- Personal Mechanics - Car Modification Shop Extended
+
+--- @everyone
+
+⚠️ Consultez le salon #infos-Français pour connaître les nouveaux paramètres et profils.
+
+https://www.nexusmods.com/cyberpunk2077/mods/27691
+
+❤️ Si vous souhaitez soutenir mon travail, offrez-moi un café.
+
+https://www.patreon.com/c/Neishin
+
+
+
+________________________________________________________________________
+
+
+
 ## [3.0.1] - Mise à jour @everyone
 
 
