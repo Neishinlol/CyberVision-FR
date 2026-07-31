@@ -4,7 +4,227 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+## [3.2.0] - Mise à jour @everyone
 
+### Changements généraux
+
+#### Nouveau salon Discord : having-crash-check-this-first
+
+- Avant de demander de l'aide pour un crash, consulte d'abord ce salon,
+- La modlist est exempte de crash si tu suis les indications de ce salon,
+- Chaque paramètre, réglage de mod et réglage graphique y est expliqué,
+- Si tu crashes quand même, ouvre un ticket dans le salon #support.
+
+#### Nettoyage de la plupart des avertissements dans les .log
+
+- Erreur Pacifica Typhoon corrigée,
+- Erreur de syntaxe de la prime Félonies Placide corrigée,
+- Excruciator corrigé,
+- Toutes les voitures avec des erreurs dans les logs ont été retirées,
+- Toutes les erreurs de syntaxe des armes iconiques corrigées,
+- Crash pendant la quête Somewhat Damaged corrigé,
+- Entrée Redscript corrigée pour des centaines de mods de tenues,
+- Erreurs de syntaxe corrigées pour des centaines de mods de quêtes/lieux/correctifs,
+- Entrée YAML de la distribution de véhicules des Badlands corrigée (merci SkepticcalSmo1).
+
+#### Ajustements graphiques et environnementaux
+
+- Nuits et intérieurs moins sombres et plus colorés,
+- Correction du vilain rendu visuel de 45 secondes lors des transitions météo,
+- Suppression des surfaces d'eau par temps ensoleillé/légèrement nuageux/nuageux,
+- Correction des sources de lumière surexposées par temps ensoleillé/légèrement nuageux/nuageux,
+- Modification du brouillard nocturne pour les météos ensoleillé/légèrement nuageux/nuageux/très nuageux.
+
+#### Corrections et ajustements
+
+- Correction des crashs en mode Photo,
+- Ajustement de certains préréglages de caméra,
+- Possibilité de passer les braindances (enfin),
+- Correction de la caméra qui devenait folle en tant que passager,
+- Correction de l'ombre de V en Path Tracing (ombre des mains),
+- Ajustement de la fréquence à laquelle V parle pendant certaines actions,
+- NSGDD ramené de Ultimate Ultra à Very High,
+- Correction du fait de sauter derrière les flics et de les tuer automatiquement,
+- Correction du changement d'apparence aléatoire de certains PNJ majeurs,
+- Correction de l'effet de vitesse anormalement lent de la caméra voiture à la troisième personne,
+- Les options de dialogue reflètent désormais à 100 % ce que V va réellement dire,
+- Realistic Traffic Density ramené de Very High à Ultimate Ultra,
+- La distribution des voitures semble désormais bien plus stable qu'avant, vos retours sont les bienvenus,
+- Correction du stutter causé par Not So Good Draw Distance (c'était l'option Interior),
+- Impossible de mourir pendant le flashback de Johnny (sauf si tu es vraiment, vraiment mauvais au jeu xd),
+- Correction de l'impossibilité de voler des voitures moddées déjà volées et revendues au Virtual Atelier.
+
+#### Modifications de l'IA et des fonctionnalités des PNJ
+
+- Régénération du bouclier des boss réduite d'environ 75 %,
+- Capacité défensive Aegis : temps de recharge augmenté de 30 à 60 secondes, durée réduite de 30 à 10 secondes,
+- Capacité Blood Pump : temps de recharge augmenté de 30 à 100 secondes, soin instantané réduit de 50 % à 20 % des PV,
+- Temps de recharge de Flash Step augmenté de 15 à 30 secondes,
+- Pain Editor : temps de recharge augmenté de 30 à 45 secondes, durée réduite de 30 à 10 secondes, réduction de dégâts abaissée de 80 % à 50 %,
+- Correction de certains boss et ennemis coriaces régénérant leur vie trop rapidement (Rhino),
+- Phoenix Protocol désactivé en attendant un nerf de la part de l'auteur du mod,
+- Portée de la capacité radar réduite de 28 à 10 mètres,
+- Radar Scrambler désactivé, je n'aime pas cette fonctionnalité,
+- Régénération de vie de tous les ennemis réduite de 50 %,
+- Apogee de TDO désactivé en attendant un correctif de la part de l'auteur du mod.
+
+### Important
+
+⚠️ LIS LE SALON #INFOS SUR DISCORD
+- Réorganisé, avec pas mal de nouvelles infos à lire.
+
+⚠️ LE JEU CRASH APRÈS LE CHARGEMENT D'UNE SAUVEGARDE OU UN NOUVEAU DÉPART APRÈS CHAQUE MISE À JOUR OU INSTALLATION DE LA MODLIST
+- Avant de créer ton personnage, charge d'abord une sauvegarde aléatoire puis redémarre le jeu.
+
+⚠️ DÉSACTIVE REDMOD
+- Pour cette bêta et les prochaines mises à jour, lance le jeu via le launcher vanilla de Cyberpunk et décoche "Activer les mods."
+
+⚠️ Règle la difficulté sur Standard
+- Le jeu est désormais équilibré autour de cette difficulté.
+
+⚠️ NOUVELLE PARTIE requise si ta sauvegarde date d'avant la 3.0.0,
+- Les sauvegardes datant de la 3.0.0 ou après sont compatibles.
+
+---
+
+### Mises à jour, nouveaux mods et remplacements
+
+#### Ajoutés
+
+- Licks Club (séparateur NSFW)
+- Judyheart – Judy Alvarez X Shadowheart
+- eXed BDs – bouton SKIP anticipé sur les BD de quêtes
+- Hanako Hand Cyberware pour V masc et fém
+- Allow Highest AI LOD
+- NPC Actions Stutter Fix
+- Fixed NPC Vehicle Reactions
+- Japantown North Verticality Expanded
+- Ladders Improved
+- Citizens of Photomode
+- MMS de Judy
+- MMS de Panam
+- MMS de Jackie
+- MMS de Mama Welles
+- RedIMGRetriever
+- RedLogger
+- Explicit Dialogue
+- Nissan 350Z V2
+- Into the Depths
+- The Ransom
+- Romantic Hangout with So Mi
+- Possibilities
+- First Contact
+- Crossing the Divide
+- Cyber-Ghost
+- Undermine Quest Series
+- Explicit Dialogue
+- Law Enforcement Overhaul Reset
+- Equippable Vanilla Nails pour V masc et fém
+- Immersive Third-Person Vehicle Camera – TPP Cam Toolkit
+- 2011 Pagani Zonda R – Full Carbon
+- eXed BDs – bouton SKIP anticipé sur les BD de quêtes
+- Hanako Hand Cyberware pour V masc et fém
+- Night City Immersive Debris
+- Improved Vegetation LODs
+- More Alternate Clothes for Judy Enhanced Body and Vanilla Body
+
+#### Mis à jour
+
+- Very High – Car Distribution
+- Factions Evolved
+- Factions Evolved – Reinforcements Gang Vs Gang
+- Factions Evolved – Law Enforcement Overhaul Reset
+- ArchiveXL
+- DigitalVixen Core
+- Redscript Configuration Framework
+- Virtual Atelier
+- Much Better AI
+- Time Dilation Overhaul
+- Nissan Skyline R34 V-Spec II – ArchiveXL
+- Claim Vehicles
+- NC Fashion Virtual Atelier
+- Lizzie's Braindances Language Pack
+- NSGDD – Not So Good Draw Distance Mod
+- Time Dilation Overhaul
+- KiasuBurger Cyberware Core
+- Authentic Shift
+- Reset Attributes Always Available – Redscript
+- KiasuBurger Cyberware Core
+- Sanchez Virtual Boutique
+- Yusei's Virtual Atelier
+- Zenitex Core Dependency
+- Claim Vehicles
+- Judy Conversations Addon
+- Better Bike Animations
+- Dusty Virtual Atelier
+- Reset Attributes Always Available – Redscript
+
+#### Retirés
+
+- HUMMER H1
+- McLaren P1
+- Albany Esperanto
+- Vehicle Pack – Corpo
+- Vehicle Pack – Gangs
+- Vehicle Pack – Utility
+- 1995 Nissan Skyline GT-R LM Nismo
+- Bugatti Chiron Profilée
+- Bugatti Tourbillon
+- Spyker C8 Preliator
+- Ford GT40 Mk1
+- Bentley Continental GTS
+- The Lone Wanderer's Stash
+- Nissan GT-R 'Lone Wanderer'
+- Chevrolet Ringbrothers Camaro Valkyrja
+- Porsche Taycan Turbo S
+- Aston Martin Valkyrie
+- Ford Mustang Legendary Customs
+- Lamborghini Countach Custom WideBody
+- Lamborghini Countach K.S Edition
+- Ford Hennessey VelociRaptor 6x6 (armé)
+- Nissan Fairlady Z S30
+- Porsche 911 Cabriolet Colors
+- Porsche 911 Collection
+- DeLorean DMC-12
+- DeLorean DMC-12 BTTF (Retour vers le futur)
+- Audi A8L Horch
+- Ferrari 488 Pista
+- Ducati Monster 1200
+- Dodge Charger SRT Hellcat
+- Chevrolet Corvette Sting Ray C2
+- Lamborghini Urus
+- Lamborghini Huracan STO
+- Sheng Noods Ramenshop
+- Aerial Takedown
+- Anti-Theft Measures
+- Hunted Down – Mini quête
+- Hunted Down – Mini quête – Traduction FR
+- Watsons NeonRow
+- Misc NC Fixes
+- Misc NC Fixes Storm Channel Collision
+- Cyber Drift
+- Nola Dreamer Virtual Boutique Male
+- Bug Fix – Recon Grenade Bounce Fix
+- Immersion Patch – Minor Activities Quest Fixes
+- Immersion Patch – Cyberpunk Story Quest Fixes
+- Kiroshi Optics Night Vision Mod
+- Kiroshi Optics Night Vision Mod – FR
+- Dynamic Appearances Project – BETA
+- New Iconic Weapons and Cyberware – Atelier Store
+- Law Enforcement Overhaul Improved
+- Classic Cigarettes (HD Textures and Meshes Replacer)
+
+--- @everyone
+
+⚠️ Consulte le salon **#infos** pour les réglages et profils à jour.
+
+https://www.nexusmods.com/cyberpunk2077/mods/27691
+
+❤️ Si tu veux soutenir mon travail, offre-moi un café.
+
+https://www.patreon.com/c/Neishin
+
+___________________________________________________________________________________________________
 
 ## [3.1.0] - Mise à jour @everyone
 
