@@ -54,7 +54,9 @@ Les grosses modlists nécessitent beaucoup de mémoire. Quelle que soit votre RA
 ### **Utilisateurs NVIDIA - Cache de shaders**
 - Panneau de configuration NVIDIA → Gérer les paramètres 3D → Taille du cache de shaders → Mettre à **10 GB** → Appliquer  
 
-## PAS DE SUPPORT HDR ## 
+## **HDR SUPPORT**
+
+## **DLSS 5 Support**
 
 ---
 
