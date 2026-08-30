@@ -4,6 +4,18 @@ Tous les changements notables du projet sont documentés ici.
 Pour des résumés rapides, consultez Discord et Nexus.  
 Ce fichier fait office de source principale et complète.
 
+[3.3.0] - Hotfix@everyone
+
+Changements généraux : 
+
+#### Hotfix : 
+
+DLSS 5 Reshade réparé 
+Armor system rafait 
+Fix crash causé par the Gang VS Gang 3.1.1 
+
+____________________________________________________________
+
 ## [3.3.0] - Mise à jour @everyone
 
 ### Changements généraux
